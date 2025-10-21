@@ -1,4 +1,4 @@
-# heh, descubra
+# kortex
 
 Repositório para criar um ambiente de aprendizado através de resumos, links, exercícios e outros recursos.  
 > ⚠️ Não adicione materiais protegidos por direitos autorais, conteúdo pago ou links para algo pirateado.
