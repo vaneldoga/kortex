@@ -4,7 +4,7 @@ Pode adicionar qualquer coisa aqui:
 - Sugerir alterações no código dos outros
 - Adicionar suas versões das correções dos exercicios  
     - Seguir o padrão:
-        > /lista/parte $n$/resolucao-_seunome_/_suas resolucoes_
+        <p style="color: pink"> /lista/parte-n/resolucao<i>_seunomeouapelido<i>/<i>suasresolucoes</i></p>
 - Adicionar QUALQUER COISA que quiser
 - Colocar outras regras e etc
 
