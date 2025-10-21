@@ -1,10 +1,11 @@
 # heh, descubra
 
 Pode adicionar qualquer coisa aqui:
+
 - Sugerir alterações no código dos outros
-- Adicionar suas versões das correções dos exercicios  
-    - Seguir o padrão:
-        > /lista/parte $n$/resolucao-_seunome_/_suas resolucoes_
+- Adicionar suas versões das correções dos exercicios
+  - Seguir o padrão:
+    > <img src="assets/neon.svg">
 - Adicionar QUALQUER COISA que quiser
 - Colocar outras regras e etc
 
