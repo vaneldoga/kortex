@@ -17,31 +17,31 @@
 using namespace std;
 
 int main() {
-    int valor, valor_atualizado;
+    int valor;
 
     cout << "Insira o valor: ";
     cin >> valor;
    
     cout << valor / 100 << " Nota(s) de 100." << endl;
-    valor_atualizado = valor % 100;
+    valor = valor % 100;
 
-    cout << valor_atualizado / 50 << " Nota(s) de 50." << endl;
-    valor_atualizado = valor_atualizado % 50; 
+    cout << valor / 50 << " Nota(s) de 50." << endl;
+    valor = valor % 50; 
 
-    cout << valor_atualizado / 20 << " Nota(s) de 20." << endl;
-    valor_atualizado = valor_atualizado % 20; 
+    cout << valor / 20 << " Nota(s) de 20." << endl;
+    valor = valor % 20; 
 
-    cout << valor_atualizado / 10 << " Nota(s) de 10." << endl;
-    valor_atualizado = valor_atualizado % 10; 
+    cout << valor / 10 << " Nota(s) de 10." << endl;
+    valor = valor % 10; 
     
-    cout << valor_atualizado / 5 << " Nota(s) de 5." << endl;
-    valor_atualizado = valor_atualizado % 5; 
+    cout << valor / 5 << " Nota(s) de 5." << endl;
+    valor = valor % 5; 
 
-    cout << valor_atualizado / 2 << " Nota(s) de 2." << endl;
-    valor_atualizado = valor_atualizado % 2; 
+    cout << valor / 2 << " Nota(s) de 2." << endl;
+    valor = valor % 2; 
 
-    cout << valor_atualizado / 1 << " Nota(s) de 1." << endl;
-    valor_atualizado = valor_atualizado % 1; 
+    cout << valor / 1 << " Nota(s) de 1." << endl;
+    valor = valor % 1; 
 
     cout << "-- End of line --" << endl;
 
