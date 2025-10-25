@@ -11,7 +11,8 @@ Repositório para criar um ambiente de aprendizado através de resumos, links, e
 - Adicionar QUALQUER COISA que quiser
 - Sugerir outras regras e etc
 
-**Contribuidores:**
+**Contribuidores:**  
+
 [![vetrz](assets/icons/vetrz.ico)](https://github.com/vetrz)
 [![seruna-1](assets/icons/seruna.ico)](https://github.com/seruna-1)
 [![vanel](assets/icons/vanel.ico)](https://github.com/vaneldoga)
