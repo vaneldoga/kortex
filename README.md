@@ -11,6 +11,8 @@ Repositório para criar um ambiente de aprendizado através de resumos, links, e
 - Adicionar QUALQUER COISA que quiser
 - Sugerir outras regras e etc
 
+---
+
 **Contribuidores:**  
 
 [![vetrz](assets/icons/vetrz.ico)](https://github.com/vetrz)
