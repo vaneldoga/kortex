@@ -15,6 +15,9 @@ Repositório para criar um ambiente de aprendizado através de resumos, links, e
 
 **Contribuidores:**  
 
-[![vetrz](assets/icons/vetrz.ico)](https://github.com/vetrz)
-[![seruna-1](assets/icons/seruna.ico)](https://github.com/seruna-1)
 [![vanel](assets/icons/vanel.ico)](https://github.com/vaneldoga)
+[![seruna-1](assets/icons/seruna.ico)](https://github.com/seruna-1)
+[![vetrz](assets/icons/vetrz.ico)](https://github.com/vetrz)
+[![icaro-s](assets/icons/icaro.ico)](https://github.com/icaro-s16)
+[![K F K](assets/icons/kfk.ico)](https://github.com/K-F-K-1)
+
